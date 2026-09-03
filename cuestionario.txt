@@ -1,0 +1,22 @@
+1) Django es un framework de desarrollo web de código abierto escrito en el lenguaje de
+programación Python. Lo usamos porque incluye muchas herramientas ya listas para usar, está
+hecho en Python que es un lenguaje que ya sabemos y sirve para sitios web, así que lo podemos
+usar para nuestro portfolio web.
+
+2) Es un patrón de diseño de Modelo-Vista-Template para organizar la lógica de datos, las
+peticiones del usuario y la interfaz visual.
+
+3) Es un paquete de código independiente y dividido en módulos para cumplir una función
+específica dentro de un sitio web.
+
+4) Es el camino que sigue una petición web desde que un usuario la hace en el navegador hasta
+que recibe una respuesta del servidor.
+
+5) Es una técnica de programación que conecta el código de un sistema orientado a objetos con
+una base de datos relacional.
+
+6) Son archivos de texto, comúnmente con formato HTML, que definen la interfaz visual de una
+aplicación web.
+
+8) Instala python. Después podes instalar desde el sitio oficial de Django, desde la distribución
+de tu sistema operativo o la última versión de desarrollo.
