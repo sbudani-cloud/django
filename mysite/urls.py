@@ -1,4 +1,4 @@
-from django.conf import admin, settings
+from django.conf import admin, settings # cannot import name 'admin' from 'django.conf'
 from django.urls import include, path
 
 urlpatterns = [
